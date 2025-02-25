@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+node_modules/
+.env
+dist/
+.DS_Store
+.vscode/
+=======
 # Logs
 logs
 *.log
@@ -22,3 +29,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+>>>>>>> 584c23c (second commit)
