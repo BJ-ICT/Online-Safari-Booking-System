@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-export const plugins = {
+export default {
+  plugins: {
     tailwindcss: {},
     autoprefixer: {},
+  },
 };
-=======
-module.exports = {
-    plugins: {
-      tailwindcss: {},
-      autoprefixer: {},
-    },
-  };
-  
->>>>>>> 022f6c0 (fourth)
